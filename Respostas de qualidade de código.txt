@@ -1,0 +1,17 @@
+1.	Durante a implementação de uma nova funcionalidade de software solicitada, quais critérios você avalia e 
+implementa para garantia de qualidade de software?
+
+R - Ao desenvolver qualquer funcionalidade, sempre tento entender ao máximo os requisitos da funcionalidade,
+ para poder iniciar com uma visão bem coerente da mesma, visando sempre escrever um codigo limpo, objetivo e o 
+mais compreensível possível para que outros desenvolvedores não tenham problemas ao desenvolver a partir da minha
+ implementação, usando as melhores práticas durante todas as etapas do desenvolvimento, como o Clean Code, SOLID
+ e princípios RESTful.
+
+
+2.	Em qual etapa da implementação você considera a qualidade de software?
+
+R - Acredito que a qualidade de software deva ser considerada em todos os estágios do desenvolvimento
+ de uma funcionalidade, desde a escolha da arquitetura e tecnologias que serão mais eficientes no cumprimento 
+da demanda até o deploy. Porém, em minha visão, acredito que os testes e a atuação do QA são imprescindíveis para
+ entregas que visem a qualidade de Software.
+
